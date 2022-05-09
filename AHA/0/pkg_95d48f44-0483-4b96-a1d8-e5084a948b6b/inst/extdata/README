@@ -1,0 +1,9 @@
+Storage Discipline: WORM
+
+                The storage disicpline for all files in this
+                package is WORM, "write once, read many times."
+
+Extending the Package
+
+                This package may be extended BY THE MAINTAINER
+                via the addition of files and/or directories.

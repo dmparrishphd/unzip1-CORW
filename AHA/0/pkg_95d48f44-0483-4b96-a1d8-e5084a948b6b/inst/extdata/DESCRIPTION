@@ -1,0 +1,12 @@
+Package: pkg_95d48f44-0483-4b96-a1d8-e5084a948b6b
+Type: Package
+Title: Extract Zip Files
+Version: 0.0-0
+Date: 2022-05-09
+Author: D. Michael Parrish [aut]
+Maintainer: Neat O <neatoverse@yahoo.com>
+Description: Extract one file from a zip file.
+        This file is
+    URN:UUID:95d48f44-0483-4b96-a1d8-e5084a948b6b#DESCRIPTION
+License: AGPL-3
+Encoding: UTF-8
